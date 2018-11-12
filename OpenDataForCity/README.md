@@ -26,7 +26,7 @@
 ### Основні
 1. [Відкриті дані: формати та правила створення (Texty.org.ua, 2017)](https://github.com/tapas-opendata/Education/raw/master/DataForCites/assets/FormatsAndRules.pdf)
 2. ["Трискладовий тест": принципи та правила застосування (Котляр Д., Слизьконіс Д., 2015)](https://github.com/tapas-opendata/Education/raw/master/DataForCites/assets/TryskladovyiTest.pdf)
-3. [Як оприлюднити таблицю та її структуру у формі відкритих даних (Texty.org.ua, 2018)](https://mods.readthedocs.io/uk/latest/table.html)
+3. [Стандарти відкритих даних місцевого самоврядування (Texty.org.ua, 2018)](https://mods.readthedocs.io/uk/latest/)
 
 ### Додаткові
 1. [Інструкція користувача порталу data.gov.ua (Державне агентство з питань електронного урядування України, 2018)](https://data.gov.ua/uploads/files/2018-08-27-090121.57665910.2.-.pdf)
