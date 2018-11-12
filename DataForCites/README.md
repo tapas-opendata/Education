@@ -18,7 +18,7 @@
 2 | [Три кроки до якісних відкритих даних: законодавство, захист персональних даних, трискладовий тест](https://docs.google.com/presentation/d/1kQJV2mM7E-ZUYZpEVVgZ3uqAErv7-AAvPmEzmQW810w/edit?usp=sharing) | Лекція, дискусія, вирішення кейсів | 30
 3 | [Три кроки до якісних відкритих даних: машиночитані дані, структура, паспорт набору даних](https://docs.google.com/presentation/d/1gGdRCfba65LOTyxMTnDRABa7MTglMkOmmscyaRs6Lcc/edit?usp=sharing) | Лекція, дискусія, вирішення кейсів | 25
 4 | Перерва |  | 10
-5 | Отримання даних з баз даних spendings.gov.ua (робота з API) | Виконання завдань у супроводі тренера | 15
+5 | [Отримання даних з баз даних spendings.gov.ua (робота з API)](https://github.com/tapas-opendata/spendingToData) | Виконання завдань у супроводі тренера | 15
 6 | Очистка та даних у Microsoft Excel | Виконання завдань у супроводі тренера | 60
 7 | Питання-відповіді |  | 15
 
