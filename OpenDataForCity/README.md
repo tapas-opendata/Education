@@ -24,8 +24,8 @@
 
 ## Матеріали
 ### Основні
-1. [Відкриті дані: формати та правила створення (Texty.org.ua, 2017)](https://github.com/tapas-opendata/Education/raw/master/DataForCites/assets/FormatsAndRules.pdf)
-2. ["Трискладовий тест": принципи та правила застосування (Котляр Д., Слизьконіс Д., 2015)](https://github.com/tapas-opendata/Education/raw/master/DataForCites/assets/TryskladovyiTest.pdf)
+1. [Відкриті дані: формати та правила створення (Texty.org.ua, 2017)](https://github.com/tapas-opendata/Education/raw/master/OpenDataForCity/assets/FormatsAndRules.pdf)
+2. ["Трискладовий тест": принципи та правила застосування (Котляр Д., Слизьконіс Д., 2015)](https://github.com/tapas-opendata/Education/raw/master/OpenDataForCity/assets/TryskladovyiTest.pdf)
 3. [Стандарти відкритих даних місцевого самоврядування (Texty.org.ua, TAPAS, 2018)](https://mods.readthedocs.io/uk/latest/)
 
 ### Додаткові
